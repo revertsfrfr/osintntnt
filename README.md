@@ -1556,3 +1556,9 @@ about police misconduct in Chicago
 <a href="https://www.buymeacoffee.com/astrosp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 157px !important;" ></a>
 
 [Top](#index)
+
+
+
+
+
+<b>NONE OF THIS IS MINE!!!! https://github.com/Astrosp/Awesome-OSINT-For-Everything</b>
